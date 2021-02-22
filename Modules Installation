@@ -1,0 +1,11 @@
+Speech Recognition - pip install SpeechRecognition
+pyttsx3 - pip install pyttsx3
+pywhatkit - pip install pywhatkit
+DateTime - pip install DateTime
+wikipedia - pip install wikipedia
+pyjokes - pip install pyjokes
+pyaudio - pip install pipwin
+          pipwin install pyaudio
+
+Run all these commands one by one in the terminal to install these modules for the project
+NOTE - Pyaudio has two install steps
